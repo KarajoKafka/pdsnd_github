@@ -1,8 +1,8 @@
 ### Date created
-November 17, 2020
+October 27, 2020
 
 ### Project Title
-Explore_bikeshare_data.r
+KKafka's Bikeshare Project
 
 ### Description
 Use information from csv files to analyse data and answer three questions in R programming with different charts and summaries.
