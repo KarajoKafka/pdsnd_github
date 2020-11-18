@@ -1,6 +1,11 @@
 ###############
-# Author
-# Description:
+#
+# Author: Karajo Kafka
+#
+# Description: Use information from csv files to analyse data
+#   and answer three questions in R programming
+#   with different charts and summaries.
+#
 ###############
 
 nyc = read.csv('new_york_city.csv')
