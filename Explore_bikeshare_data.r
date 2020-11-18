@@ -1,3 +1,7 @@
+###############
+# Author
+# Description:
+###############
 
 nyc = read.csv('new_york_city.csv')
 wash = read.csv('washington.csv')
