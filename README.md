@@ -5,7 +5,7 @@ November 17, 2020
 Explore_bikeshare_data.r
 
 ### Description
-Describe what your project is about and what it does
+Use information from csv files to analyse data and answer three questions in R programming with different charts and summaries.
 
 ### Files used
 Include the files used
